@@ -18,9 +18,7 @@
 
 ## Usage
 
-* To use this solution you need to have the docker installed, the solution created was made using docker 19.03.8;
-* This stack was create using docker-compose, on the currenty directory there is a docker-compose.yml;
-* On the docker-compose.yml it's need to set up BACKEND_HOST variable to the your localhost IP (your machine); 
+* It's need to set up BACKEND_HOST variable on docker-compose.yml to your localhost IP; 
 * Next:
 
 ```
