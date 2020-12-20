@@ -36,6 +36,8 @@ docker logs -f <CONTAINER_ID>
 
 Voilá! 
 
+* The version of this stack and the how-to on Kubernetes I uploaded on YouTube.
+
 ## Author
 
 👤 **Tadeu Bernacchi**
